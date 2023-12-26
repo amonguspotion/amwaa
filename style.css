@@ -1,0 +1,16 @@
+body{
+    background-size: cover;
+}
+
+.header{
+    margin: 0px;
+    width: 100%;
+}
+
+.blck-txt{
+    color: black;
+}
+
+.title{
+    font-size: 26px;
+}
